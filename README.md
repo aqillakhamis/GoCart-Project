@@ -1,4 +1,4 @@
-# GoCart: Trolley detection using Yolo5
+# GoCart: Trolley detection using Yolov5
 
 < code description >
 
@@ -9,6 +9,6 @@
 4. Connect to the hosted runtime
 5. clone github repo by running the code
 6. Check GoCart-Project files directory
-7. Train Yolo5 model
+7. Train Yolov5 model
 
 TBC
